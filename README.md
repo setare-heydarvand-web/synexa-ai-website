@@ -9,9 +9,8 @@ A futuristic AI-inspired landing page with modern UI, smooth animations and imme
 </h3>
 
 <p align="center">
-  <a href="YOUR-LIVE-LINK">Live Demo</a>
-  •
-  <a href="YOUR-GITHUB-LINK">Repository</a>
+  <a href="https://setare-heydarvand-web.github.io/synexa-ai-website/">Live Demo</a>
+
 </p>
 
 ---
